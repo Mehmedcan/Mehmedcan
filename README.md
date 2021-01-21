@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi :raised_hand: this is Mehmedcan Özman
 
 <!--
 **Mehmedcan/Mehmedcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am passionate about learning. Love to research different engineering disciplines. And also I am interested in algorithms and game development. 
