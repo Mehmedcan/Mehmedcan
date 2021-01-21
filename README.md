@@ -1,4 +1,4 @@
-### Hi :raised_hand: this is Mehmedcan Özman
+### Hi, :raised_hand: this is Mehmedcan Özman
 
 <!--
 **Mehmedcan/Mehmedcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
