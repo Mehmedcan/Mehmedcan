@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am passionate about learning. Love to research different engineering disciplines. And also I am interested in algorithms and **game development**. 
+I'm a **game developer** living in **Izmir, Turkey**, I love to research different engineering disciplines. And also I am interested in algorithms and **game development**. 
